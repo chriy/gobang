@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Canvas绘制人机对战五子棋</title>
     <style type="text/css">
         * {
             margin: 0;
@@ -255,8 +255,8 @@
                 computerWin[k]++;
                 myWin[k] = 6;
                 if (computerWin[k] == 5) {
-                    alert("不好意思，你输了！");
                     over = true;
+                    alert("不好意思，你输了！");
                 }
             }
         }
