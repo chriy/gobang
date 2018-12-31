@@ -12,4 +12,4 @@
 
   ### 以下是效果图，需要背景图可自行更换
 
-![image](https://github.com/1angy/gobang/blob/master/3f1589e8ecb749ee92612ab859bce7e4.png)<br>
+![image](https://github.com/1angy/gobang/blob/master/images/3f1589e8ecb749ee92612ab859bce7e4.png)<br>
