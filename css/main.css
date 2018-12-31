@@ -1,0 +1,22 @@
+@charset "UTF-8";
+* {
+    margin: 0;
+    padding: 0;
+}
+html,body{
+    height:100%;
+}
+body{
+    background:url("../images/night-panorama-reflection-sky-water-nature-1432525.jpg")no-repeat center/cover;
+}
+#canvas {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 50px;
+    right: 0px;
+    margin: auto;
+    box-shadow: 0px 0px 10px #000;
+    background-color:rgba(255,255,255,.9);
+    border-radius: 12px;
+}
